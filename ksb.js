@@ -12,7 +12,7 @@
 
 [rewrite_local]
 
-https:\/\/api\.ankianki\.com url script-response-body https://raw.githubusercontent.com/donglovexiao/Rewrite/main/ksb.js
+https:\/\/api\.ankianki\.com url script-response-body https://raw.githubusercontent.com/c0ldian/Rewrite/main/ksb.js
 https:\/\/api\.ankianki\.com\/banner\/get url reject-200
 https:\/\/api\.ankianki\.com\/popupAd\/get url reject-200
 https:\/\/api\.ankianki\.com\/ad url reject-200
